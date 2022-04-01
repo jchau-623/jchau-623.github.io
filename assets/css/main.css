@@ -2638,3 +2638,11 @@ input, select, textarea {
 				}
 
 	}
+
+.portfolio-descriptions {
+	font-size: 14px;
+	display:flex;
+	justify-content: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
