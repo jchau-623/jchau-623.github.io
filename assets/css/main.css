@@ -1778,6 +1778,8 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			margin: 0 0 2em 0;
+			object-fit: cover;
+			box-sizing: inherit;
 		}
 
 		.image.left {
@@ -2645,5 +2647,5 @@ input, select, textarea {
 	justify-content: center;
 	margin-left: 10px;
 	margin-right: 10px;
-	
+
 }
