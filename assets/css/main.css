@@ -1780,6 +1780,7 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 			object-fit: cover;
 			box-sizing: inherit;
+			height:300px;
 		}
 
 		.image.left {
